@@ -1,0 +1,5 @@
+input=input('enter a string :')
+low = input.lower()
+upper=input.upper()
+print(f'lowercase:{low}')
+print(f'uppercase :{upper}')
